@@ -1,0 +1,4 @@
+name: ZombieSurvival
+version: '${project.version}'
+main: me.nojusnetwork.zombiesurvival.Zombiesurvival
+api-version: 1.19
